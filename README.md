@@ -44,4 +44,4 @@ Seu Nome
 ## Contato
 
 - Email: pedrorago101@gmail.com
-- GitHub: [seuusuariogithub](https://github.com/pedrorago10)
+- GitHub: [pedrorago10](https://github.com/pedrorago10)
