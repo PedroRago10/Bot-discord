@@ -39,7 +39,7 @@ Este é um bot Discord personalizado desenvolvido para auxiliar no registro de p
 
 ## Autor
 
-Seu Nome
+Pedro Rago
 
 ## Contato
 
